@@ -16,3 +16,6 @@ impute5_static	\
 	
 3) Summary statistics from Figure 2 in the original article
 4) Bash and R scripts for calculating the surfbat test statistics by hand, details within the example markdown
+
+All files can also be found here: https://lysine.univ-brest.fr/~aherzig/surfbat/
+Including uncompressed summary statistics from the paper
